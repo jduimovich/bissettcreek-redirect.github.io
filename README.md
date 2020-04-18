@@ -1,2 +1,2 @@
-# openmicroclimate.io.github.io
-Redirect site for taking traffic for openmicroclimate.io and redirecting to microclimate.dev
+# bissettcreek.com
+Redirect site for taking traffic for bissettcreek.com and redirecting to bissettcreek.ca
